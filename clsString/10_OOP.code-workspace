@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../10_OOP"
+		},
+		{
+			"path": "../../07Algorthims"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
